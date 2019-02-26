@@ -1,0 +1,122 @@
+body {
+    background-image: url("images/carpet3.jpg");
+    background-repeat: repeat;
+}
+p {
+    font-size: 20px;
+    color: #fb0505;
+    text-shadow: 1px 1px black;
+}
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    margin-bottom: -20px;
+}
+
+.page-head {
+    text-align: center;
+    margin-bottom: -45px;
+
+}
+
+.banner {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 31);
+    text-shadow: 3px 3px black;
+}
+.sub-head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: rgb(255, 0, 31);
+    text-shadow: 3px 3px black;
+    margin-bottom: 70px;
+
+}
+
+.johnny {
+    width: 200px;
+    height: 100px;
+    border: solid 2px white;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float: left;
+    margin-right: 15px;
+    
+}
+.wendy {
+    width: 200px;
+    height: 110px; 
+    border: solid 2px white;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+    margin-right: 15px;
+    
+}
+.danny {
+    width: 200px;
+    height: 110px; 
+    border: solid 2px white;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+    margin-right: 15px;
+
+  
+}
+.twins {
+    width: 200px;
+    height: 110px; 
+    border: solid 2px white;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+    margin-right: 15px;
+
+  
+}
+.hotel {
+    width: 200px;
+    height: 110px; 
+    border: solid 2px white;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+    margin-right: 15px; 
+}
+.stories {
+    text-shadow: 2px 2px black;
+}
+
+.no-link-style {
+    text-decoration-line: none;
+    color: rgb(255, 0, 31);
+    text-shadow: 2px 2px black;
+}
+a:visited {
+    color: rgb(255, 0, 31);
+}
+.menu li {
+    list-style: none;
+    color: rgb(255, 0, 31);
+    display: inline;
+    font-size: 35px;
+    padding: 50px;
+}
+.w {
+    word-spacing: 30px;
+}
+.d {
+    word-spacing: -5px;
+    letter-spacing: 15px;
+}
+.t {
+    letter-spacing: -2px;
+}
+.type {
+    width: 90%;
+    margin-left: 50px;
+}

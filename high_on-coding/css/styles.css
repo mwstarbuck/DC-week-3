@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+.header h1,h2,a {
+    text-decoration-line: none;
+    font-weight: 500;
+    display: inline;
+    padding-right: 30px;
+    padding-top: 20px;
+    letter-spacing: -1px;
+    word-spacing: -5px;
+    color: white;
+}
+.header {
+    background-color: rgb(36, 114, 145);
+    padding: 25px;
+}
+.big {
+    margin: 2%;
+}
+.big-grey {
+    background-color:   darkgrey;
+    padding: 10px;
+}
+
+.big-grey h2 {
+    color:  grey;
+    word-spacing: 1px;
+}
+.title-box {
+    margin-top: 20px;
+}
+.article-title {
+    color: rgb(36, 114, 145);
+    word-spacing: 1px;
+}
+.article {
+    margin-bottom:  -15px;
+}
+
+.comments {
+    background-color:   orange;
+    padding: 5px;
+    color: white;
+}
+h4 {
+    display: inline;
+    padding: 5px 25px 5px 10px;
+
+}
+
+.language-box {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 33px;
+    background-color: darkgrey;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.lang-name {
+    margin-top: 35%;
+    font-size: 30px;
+    font-weight: 500;
+}
+#vbnet {
+    text-decoration-line: underline;
+}
+.lang-name > p {
+    font-weight: 200;
+}
