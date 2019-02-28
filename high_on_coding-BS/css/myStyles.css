@@ -1,26 +1,25 @@
 body {
     font-family: sans-serif;
 }
-.header h1, h2, a {
-    text-decoration: none;
-    font-weight: 200;
-    display: inline;
-    padding-right: 30px;
-    padding-top: 20px;
-    letter-spacing: -1px;
-    word-spacing: -5px;
-    color: white;
-}
-.move-left {
-    padding-left: 25px;
-}
-.header {
+
+.background{
     background-color: rgb(36, 114, 145);
-    padding: 25px;
+    word-spacing: -4px;
 }
-#home, #cat {
-    font-weight: 600;
-    text-decoration: none;
+/* div #brand, #navbarNav {
+    background-color: rgb(36, 114, 145);
+    color: white;
+} */
+.jumbotron-fluid {
+    background-color: lightgrey;
+
+}
+.container {
+    margin-left: 0;
+}
+.container h1 {
+    color: gray;
+
 }
 .big {
     margin: 2%;
@@ -56,23 +55,18 @@ h4 {
 
 }
 
-.language-box {
+.col-sm {
     text-align: center;
-    position: relative;
-    display: inline-block;
-    margin-top: 5%;
     margin-left: 5%;
-    background-color: darkgrey;
+    margin-top: 5%;
     width: 300px;
     height: 250px;
+    background-color: darkgrey;
 }
 .lang-name {
-    margin-top: 35%;
+    margin-top: 40%;
     font-size: 30px;
     font-weight: 200;
-}
-#vbnet {
-    text-decoration-line: underline;
 }
 .lang-name > p {
     font-weight: 100;
@@ -81,3 +75,14 @@ h4 {
     color: rgb(82, 82, 82);
     margin-top: 80px;
 }
+.lang-container {
+    display: flex;
+    justify-content: center;
+}
+#vbnet {
+    text-decoration-line: underline;
+}
+/* .active {
+    color: white;
+    font-weight: 600;
+} */
